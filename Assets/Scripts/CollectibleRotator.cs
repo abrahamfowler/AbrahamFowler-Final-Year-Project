@@ -1,3 +1,5 @@
+
+// REFERENCES:
 // The rotate the collectible coin I used this source: https://www.youtube.com/watch?v=HlDGSStxuHI 
 // To trigger audio when the collectible coin is collected by the player I used this source: 
 // https://www.youtube.com/watch?v=hoY1eWqDo5s&t=611s
