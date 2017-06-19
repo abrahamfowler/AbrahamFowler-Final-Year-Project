@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Reference:
-// https://www.youtube.com/watch?v=F5eE1YL1ZJY
+// REFERENCE:
+// The original source for this code file is:
+// https://www.youtube.com/watch?v=blO039OzUZc&t=914
 
 public class CamLook : MonoBehaviour {
 
