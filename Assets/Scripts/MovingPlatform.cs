@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// - Reference: 
-//- https://www.youtube.com/watch?v=dXAVAA8xXRs
+//REFERENCE: 
+//The original source for this script is:  https://www.youtube.com/watch?v=AfwmRYQRsbg&t=1046s
 
 
 public class MovingPlatform : MonoBehaviour {
