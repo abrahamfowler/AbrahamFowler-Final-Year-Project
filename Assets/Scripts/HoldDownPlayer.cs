@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// - Reference: 
-// - https://www.youtube.com/watch?v=dXAVAA8xXRs
-// - https://docs.unity3d.com/Manual/UnityOverview.html
+//REFERENCE:
+// The original source for this code file is: https://www.youtube.com/watch?v=AfwmRYQRsbg&t=1068s  
 
 
 public class HoldDownPlayer : MonoBehaviour {
