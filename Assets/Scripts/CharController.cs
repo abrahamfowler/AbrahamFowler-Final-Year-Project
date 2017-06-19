@@ -1,6 +1,7 @@
-//The sources for this script:
-//- https://www.youtube.com/watch?v=blO039OzUZc&t=914
-//- https://www.youtube.com/watch?v=XtR29MmzuT0&list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF&index=7
+//REFERENCES: 
+//This source was step the character controller - https://www.youtube.com/watch?v=blO039OzUZc&t=914  
+//This source was used to count points - https://www.youtube.com/watch?v=XtR29MmzuT0&list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF&index=7
+//This source was used to display the score when the game is in play mode - https://www.youtube.com/watch?v=bFSLI2cmYYo&list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF&index=8
 
 using System.Collections; using System.Collections.Generic; using UnityEngine; using UnityEngine.UI;
 
