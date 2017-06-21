@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 //REFERENCE: 
-//The original source for this script is:  https://www.youtube.com/watch?v=AfwmRYQRsbg&t=1046s
+//The original source for this code file is:  https://www.youtube.com/watch?v=AfwmRYQRsbg&t=1046s
 
 
 public class MovingPlatform : MonoBehaviour {
