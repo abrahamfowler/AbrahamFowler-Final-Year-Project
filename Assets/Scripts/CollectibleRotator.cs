@@ -1,7 +1,7 @@
 
-// REFERENCES:
-// To rotate the collectible coin I used this source: https://www.youtube.com/watch?v=HlDGSStxuHI 
-// To trigger audio when the collectible coin is collected by the player I used this source: https://www.youtube.com/watch?v=hoY1eWqDo5s&t=611s
+// REFERENCE:
+// This source was used to rotate the collectible coin and to trigger audio 
+// when the collectible coin is collected: https://www.youtube.com/watch?v=hoY1eWqDo5s&t=611s
 
 
 using System.Collections;
