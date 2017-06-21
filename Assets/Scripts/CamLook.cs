@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // REFERENCE:
-// The original source for this code file is:
-// https://www.youtube.com/watch?v=blO039OzUZc&t=914
+// The original source for this code file is: https://www.youtube.com/watch?v=blO039OzUZc&t=914
 
 public class CamLook : MonoBehaviour {
 
